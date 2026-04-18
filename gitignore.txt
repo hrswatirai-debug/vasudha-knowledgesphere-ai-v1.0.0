@@ -1,0 +1,18 @@
+# Environment variables — NEVER commit
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+vasudha_rag_env/
+*.egg-info/
+
+# macOS
+.DS_Store
+.AppleDouble
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
